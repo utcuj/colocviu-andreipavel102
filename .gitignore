@@ -1,0 +1,14 @@
+HELP.md
+.gradle
+build/
+bin/
+out/
+target/
+
+ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
